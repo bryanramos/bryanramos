@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hey, I'm Bryan Ramos 👋
+
+I'm currently a freelance software developer working on React, the Microsoft Stack and mobile application development. My portfolio coming soon!
+Volunteer at [Nuevo Foundation](https://nuevofoundation.org/).
+
+Need help with interviews or resume? (Especially for Microsoft). Ping me on LinkedIn.
+
+Check out my [LinkedIn](https://www.linkedin.com/in/bryanramos/).
 
 <!--
 **bryanramos/bryanramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
