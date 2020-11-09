@@ -6,7 +6,7 @@ I'm currently a freelance software developer working on React, the Microsoft Sta
 * Need help with interviews or your resume? (Especially for Microsoft). Ping me on LinkedIn.
 * Volunteer at [Nuevo Foundation](https://nuevofoundation.org/).
 
-Check out my [LinkedIn](https://www.linkedin.com/in/bryanramos/).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanramos/).
 
 <!--
 **bryanramos/bryanramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
