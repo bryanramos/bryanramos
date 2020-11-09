@@ -4,6 +4,7 @@ I'm currently a freelance software developer working on React, the Microsoft Sta
 
 * Ask me about React, Azure and the Microsoft Stack.
 * Need help with interviews or your resume? (Especially for Microsoft). Ping me on LinkedIn.
+* Incoming Software Engineer @ Microsoft
 * Volunteer at [Nuevo Foundation](https://nuevofoundation.org/).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanramos/).
