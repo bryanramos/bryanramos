@@ -1,9 +1,10 @@
 ### Hey, I'm Bryan Ramos 👋
 
 I'm currently a freelance software developer working on React, the Microsoft Stack and mobile application development. My portfolio coming soon!
-Volunteer at [Nuevo Foundation](https://nuevofoundation.org/).
 
-Need help with interviews or resume? (Especially for Microsoft). Ping me on LinkedIn.
+* Ask me about React, Azure and the Microsoft Stack.
+* Need help with interviews or your resume? (Especially for Microsoft). Ping me on LinkedIn.
+* Volunteer at [Nuevo Foundation](https://nuevofoundation.org/).
 
 Check out my [LinkedIn](https://www.linkedin.com/in/bryanramos/).
 
