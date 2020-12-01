@@ -2,7 +2,7 @@
 
 I'm currently a freelance software developer working on React, the Microsoft Stack and mobile application development and senior studying CS at the University of Texas at El Paso. My portfolio coming soon!
 
-* Ask me about React, TypeScript, Azure and the Microsoft Stack.
+* Ask me about React, TypeScript, Azure, SQL, PHP and the Microsoft Stack.
 * Need help with interviews or your resume? (Especially for Microsoft). Ping me on LinkedIn.
 * Incoming Software Engineer @ Microsoft
 * Volunteer at [Nuevo Foundation](https://nuevofoundation.org/).
