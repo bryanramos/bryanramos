@@ -1,11 +1,9 @@
 ### Hey, I'm Bryan Ramos 👋
 
-I'm currently a freelance software developer working on React, the Microsoft Stack and mobile application development and senior studying CS at the University of Texas at El Paso. My portfolio coming soon!
+I am a current software engineer at Microsoft where I work with Kubernetes and C#. On my free time, I continue learning about React, the MS stack, mobile app development and more.
 
 * Ask me about React, TypeScript, Azure, SQL, PHP and the Microsoft Stack.
 * Need help with interviews or your resume? (Especially for Microsoft). Ping me on LinkedIn.
-* Incoming Software Engineer @ Microsoft
-* Volunteer at [Nuevo Foundation](https://nuevofoundation.org/).
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/bryanramos/).
 
