@@ -1,6 +1,6 @@
 ### Hey, I'm Bryan Ramos 👋
 
-I am a current software engineer at Microsoft where I work with Kubernetes and C#. On my free time, I continue learning about React, the MS stack, mobile app development and more.
+I am a software engineer at Microsoft where I work with Kubernetes and C# on the Catalog team. On my free time, I continue learning about React, the MS stack, mobile app development and more.
 
 * Ask me about React, TypeScript, Azure, SQL, PHP and the Microsoft Stack.
 * Need help with interviews or your resume? (Especially for Microsoft). Ping me on LinkedIn.
